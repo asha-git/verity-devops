@@ -79,6 +79,8 @@ pipeline {
         }
 		//Code ends for stage War Deployed on Tomcat Server
 		
+		//Commented line for checking auto build triggering
+		
 		
 		
 		
