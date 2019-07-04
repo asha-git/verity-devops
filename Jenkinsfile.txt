@@ -58,6 +58,8 @@ pipeline {
         }
 		//Code ends for stage Build
 		
+		//Commented line for checking auto build triggering
+		
 		
 		
 		
